@@ -10,8 +10,6 @@
  * MIT License
  */
 
-import 'custom-event-polyfill';
-
 const defaultParams = {
   containerClass: 'custom-select-container',
   openerClass: 'custom-select-opener',
